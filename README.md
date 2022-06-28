@@ -1,8 +1,11 @@
-# Whatsapp Automation
-WhatsApp Automation in Python using selenium which is capable of sending messages and images to any desired recipient given by user on WhatsApp Web.
+# Whatsapp Image Spammer
+Python script that sends images from folder "spampics" to user or group.
+
+# Made with code from Lavanyask03/whatsapp-automation
 
 # Requirements
 Python 2 or Python 3 (preferred)
+Doesn't work with Selenium 4.3.0 or newer
 
 # Run on local machine
 1. Clone the repository
@@ -15,14 +18,7 @@ git clone https://github.com/Lavanyask03/whatsapp-automation.git
 pip install -r requirements.txt
 ```
 
-3. Open and run the notebook using Jupyter notebook.
-```
-jupyter-notebook WhatsApp_Automation.ipynb
-```
-
-## Note
-Do change the path for chromedriver.exe file.
-
 # Usage
-Enter in the recipient's name and message to send it, image can also be sent.
-The QR Code scanning cannot be automated and should be done manually when the Whatsapp Web page opens.
+Put your pictures in "spampics" folder.
+Scan QR code then enter group's or user's name into command line.
+
