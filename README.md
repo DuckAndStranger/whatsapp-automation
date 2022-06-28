@@ -10,7 +10,7 @@ Doesn't work with Selenium 4.3.0 or newer
 # Run on local machine
 1. Clone the repository
 ```
-git clone https://github.com/Lavanyask03/whatsapp-automation.git
+https://github.com/DuckAndStranger/whatsapp-automation
 ```
 
 2. Install required packages via pip. (Type in anaconda prompt or python prompt)
