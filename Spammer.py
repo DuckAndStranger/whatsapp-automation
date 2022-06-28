@@ -35,3 +35,4 @@ for st in files:
     sleep(1)
     print("Picture №", i ,"sent")
     i+=1
+sleep(10)
